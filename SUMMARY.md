@@ -14,4 +14,5 @@
 * [Журнал успеваемости учеников](zhurnal_uspevaemosti_uchenikov.md)
 * [Данные об учениках](dannie_ob_uchenikah.md)
 * [Профиль](profil.md)
+* Содержимое Курса 
 
