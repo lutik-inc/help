@@ -6,5 +6,5 @@
    * [Раздел 2](razdel_2.md)
    * Раздел 3
 * [Личный кабинет](lichnii_kabinet.md)
-* Содержимое курса
+* [Содержимое курса](soderzhimoe_kursa.md)
 
