@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Пеликан. Математика на планшетах](README.md)
 * [Вход в систему "Пеликан"](vhod_v_sistemu_pelikan.md)
 * [Личный кабинет](lichnii_kabinet.md)
 * [Содержимое Курса](soderzhimoe_kursa1.md)
