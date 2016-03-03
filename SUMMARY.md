@@ -9,4 +9,5 @@
 * [Содержимое курса](soderzhimoe_kursa.md)
    * [Работа с занятиями (часть 1)](rabota_s_zanyatiyami.md)
    * [Работа с занятиями (часть 2)](rabota_s_zanyatiyami_chast_2.md)
+   * Работа с занятиями (часть 3)
 
