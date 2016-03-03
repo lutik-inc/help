@@ -7,6 +7,6 @@
    * Раздел 3
 * [Личный кабинет](lichnii_kabinet.md)
 * [Содержимое курса](soderzhimoe_kursa.md)
-   * Работа с занятиями
+   * [Работа с занятиями](rabota_s_zanyatiyami.md)
    * Работа с занятиями
 
