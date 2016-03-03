@@ -16,5 +16,5 @@
 * [Методическое сопровождение](metodicheskoe_soprovozhdenie.md)
 * [Журнал успеваемости учеников](zhurnal_uspevaemosti_uchenikov.md)
 * [Данные об учениках](dannie_ob_uchenikah.md)
-* Профиль
+* [Профиль](profil.md)
 
