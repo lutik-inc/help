@@ -13,4 +13,5 @@
    * [Работа с занятиями (часть 4)](rabota_s_zanyatiyami_chast_4.md)
    * [Работа с занятиями (часть 5)](rabota_s_zanyatiyami_chast_5.md)
 * [Переназначение задач ученикам](perenaznachenie_zadach_uchenikam.md)
+* Методическое сопровождение 
 
