@@ -14,5 +14,5 @@
 **[Работа с занятиями (часть 4)](https://www.gitbook.com/book/pelican/help/edit#/edit/master/rabota_s_zanyatiyami_chast_4.md)**
 - добавление задач 
  
-**[Работа с занятиями (часть 5)](**
+**[Работа с занятиями (часть 5)](https://www.gitbook.com/book/pelican/help/edit#/edit/master/rabota_s_zanyatiyami_chast_5.md)**
 - выдача занятия 
