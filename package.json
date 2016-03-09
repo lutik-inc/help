@@ -3,7 +3,7 @@
   "scripts": {
     "clean": "rm -rf _book",
     "prepare": "gitbook install",
-    "build": "npm run prepare && gitbook build -g help/src",
+    "build": "npm run prepare && gitbook build -g help/docs",
     "sync": "git checkout master && git fetch origin && git pull origin master",
     "save": "git checkout master && git add . && git commit -am 'Update help' && git push git@github.com:lutik-inc/help master",
     "publish": "npm run clean && npm run build && cd _book && git init && git commit --allow-empty -m 'Update help' && git checkout -b gh-pages && touch .nojekyll && git add . && git commit -am 'Update help' && git push git@github.com:lutik-inc/help gh-pages --force && cd ../"
