@@ -8,7 +8,7 @@
    * [Ответы и шпаргалки, изменение названия занятий](rabota_s_zanyatiyami.md)
    * [Удаление задач и изменение последовательности задач](rabota_s_zanyatiyami_chast_2.md)
    * [Изменение количества попыток](rabota_s_zanyatiyami_chast_3.md)
-   * [Работа с занятиями (часть 4)](rabota_s_zanyatiyami_chast_4.md)
+   * [Добавление задач](rabota_s_zanyatiyami_chast_4.md)
    * [Работа с занятиями (часть 5)](rabota_s_zanyatiyami_chast_5.md)
 * [Переназначение задач ученикам](perenaznachenie_zadach_uchenikam.md)
 * [Методическое сопровождение](metodicheskoe_soprovozhdenie.md)
