@@ -1,0 +1,17 @@
+{
+  "gitbook": "2.4.3",
+  "structure": {
+    "summary": "src/SUMMARY.md"
+  },
+  "language": "ru",
+  "plugins": ["edit-link", "prism", "-highlight", "github", "toggle-chapters", "-search"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "//github.com/lutik-inc/help/tree/master",
+      "label": "Редактировать"
+    },
+    "github": {
+      "url": "//github.com/lutik-inc/help/"
+    }
+  }
+}
