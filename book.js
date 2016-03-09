@@ -1,5 +1,5 @@
 module.exports = {
     root: './docs',
     title: 'Pelican',
-    gitbook: '3.x.x'
+    gitbook: '>=3.0.0-pre.0'
 };
