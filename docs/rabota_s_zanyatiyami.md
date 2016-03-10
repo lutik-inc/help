@@ -11,4 +11,4 @@
 - Нажать на кнопку «Сохранить», которая появляется внизу экрана
 
 
-<video width="320" height="240" controls=true src="https://s3-eu-west-1.amazonaws.com/edu-prod/video/help_videos/4.mp4" type="video/mp4" />
+<video width="400" height="600" controls=true src="https://s3-eu-west-1.amazonaws.com/edu-prod/video/help_videos/4.mp4" type="video/mp4" />
