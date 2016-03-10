@@ -13,6 +13,6 @@
     "url": "https://github.com/lutik-inc/help.git"
   },
   "dependencies": {
-    "gitbook-cli": "^0.3.4"
+    "gitbook-cli": "2.1.2"
   }
 }
