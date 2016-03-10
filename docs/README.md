@@ -2,7 +2,7 @@
 
 Интерактивные интересные задачи, статистика по каждому ученику и по всему классу, подтвержденный положительный результат.
 
-<img src="/images/todd.png" height="300">
+<img src="http:\/\/pelicanbook.ru/images/todd.png" height="300">
 
 **Что такое Pelican?**
 
