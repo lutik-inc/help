@@ -16,4 +16,4 @@
 - Нажать на ссылку «Выйти на этом компьютере»
 
 
-<video width="320" height="240" controls=true src="https://s3-eu-west-1.amazonaws.com/edu-prod/video/help_videos/13.mp4" type="video/mp4" />
+<video width="600" height="400" controls=true src="https://s3-eu-west-1.amazonaws.com/edu-prod/video/help_videos/13.mp4" type="video/mp4" />
