@@ -2,8 +2,7 @@
 
 Интерактивные интересные задачи, статистика по каждому ученику и по всему классу, подтвержденный положительный результат.
 
-
-![](https://edu-prod.s3.amazonaws.com/resources/Tod_1457097597.png)
+<img src="http://pelicanbook.ru/images/todd.png" height="300">
 
 **Что такое Pelican?**
 
