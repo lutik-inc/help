@@ -1,7 +1,7 @@
 # Summary
 
-* [Пеликан. Математика на планшетах](README.md)
-* [Вход в систему «Пеликан»](vhod_v_sistemu_pelikan.md)
+* [«Pelican». Математика на планшетах](README.md)
+* [Вход в систему «Pelican»](vhod_v_sistemu_pelikan.md)
 * [Личный кабинет](lichnii_kabinet.md)
 * [Содержимое курса](soderzhimoe_kursa1.md)
 * [Занятия](soderzhimoe_kursa.md)
