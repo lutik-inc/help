@@ -4,7 +4,7 @@
 * [Вход в систему Pelican](vhod_v_sistemu_pelikan.md)
 * [Личный кабинет](lichnii_kabinet.md)
 * [Содержимое курса](soderzhimoe_kursa1.md)
-* [Занятия](soderzhimoe_kursa.md)
+* Занятия
    * [Ответы к задачам, изменение названия занятий](rabota_s_zanyatiyami.md)
    * [Удаление и изменение порядка задач в занятии](rabota_s_zanyatiyami_chast_2.md)
    * [Попытки на решение задач в занятии](rabota_s_zanyatiyami_chast_3.md)
